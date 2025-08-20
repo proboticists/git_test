@@ -1,0 +1,11 @@
+{
+    "layer": "top",
+    "position": "bottom",
+    "height": 30,
+    // "width": 1280,
+    "spacing": 4,
+    "modules-left": [],
+    "modules-center": [],
+    "modules-right": [],
+    
+}
